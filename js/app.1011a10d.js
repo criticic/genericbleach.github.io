@@ -1978,7 +1978,7 @@
             }
             return n
         }
-        var xt="/users/log", bt="/users/", gt="/user/forgot_password/%s", yt="/reset-password", vt="/users/verify", Et="/users/%s/change_email_verify", Ot="/users/available", At=new(function(t) {
+        var xt="/user/login", bt="/users/", gt="/user/forgot_password/%s", yt="/reset-password", vt="/users/verify", Et="/users/%s/change_email_verify", Ot="/users/available", At=new(function(t) {
             function e() {
                 return Object(rt.a)(this, e), Object(st.a)(this, Object(ct.a)(e).apply(this, arguments))
             }
